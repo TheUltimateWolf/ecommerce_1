@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9301d1e2-a9ab-4943-b4eb-c7cef41cd9ce"
+      }
+    },
+    "owner": "somtochimezie"
   }
 }

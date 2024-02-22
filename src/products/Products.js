@@ -7,99 +7,99 @@ export const products = [
   )*/
     {
         id: 1,
-        name: 'Bag 1',
-        price: '$19.99',
+        name: 'Brown Leather Bag for Women',
+        price: '$199.99',
         image: require('../../assets/images/bag-1.png'),
         category: 'fashion',
         quantity: '20',
-        description: '',
+        description: 'small, fashionable brown leather bag',
         discount: ''
     }, {
         id: 2,
-        name: 'Product 2',
+        name: 'Yellow Boots',
         price: '$49.99',
         image: require('../../assets/images/shoe-1.png'),
         category: 'fashion',
-        quantity: '5',
-        description: '',
+        quantity: '10',
+        description: 'yellow fishing boots',
         discount: ''
     }, {
         id: 3,
 
-        name: 'Product 3',
-        price: '$14.99',
+        name: 'Green Boots',
+        price: '$34.99',
         image: require('../../assets/images/shoe-2.png'),
         category: 'fashion',
-        quantity: '10',
-        description: '',
+        quantity: '20',
+        description: 'uglier green boots for something',
         discount: ''
     }, {
         id: 4,
-        name: 'Product 4',
-        price: '$19.99',
+        name: 'Pink Smartwatch',
+        price: '$99.99',
         image: require('../../assets/images/watch-1.png'),
         category: 'fashion',
-        quantity: '4',
-        description: '',
+        quantity: '35',
+        description: 'smartwatch for workouts',
         discount:''
       },
       {
         id: 11,
-        name: 'Product 11',
-        price: '$19.99',
+        name: 'African Sandals',
+        price: '$9.99',
         image: require('../../assets/images/Teemespice_Slippers.jpg'),
         category:'fashion',
-        quantity: '20',
-        description: '',
+        quantity: '40',
+        description: 'sandals or slippers for legs',
         discount:''
       },
       {
         id: 30,
-        name: 'Product 30',
-        price: '$24.99',
+        name: 'Belt',
+        price: '$4.99',
         image: require('../../assets/images/belt-1.png'),
         category: 'fashion',
         quantity: '10',
-        description: '',
+        description: 'belts for keeping your trousers up',
         discount: ''
     }, {
         id: 5,
-        name: 'Product 5',
-        price: '$50.99',
+        name: 'Mens African Sandals',
+        price: '$9.99',
         image: require('../../assets/images/footwear.png'),
         category: 'fashion',
         quantity: '34',
-        description: '',
+        description: 'also african slippers for masculine style',
         discount: ''
 
     }, {
         id: 6,
-          name: 'Product 6',
-          price: '$10.99',
+          name: 'Wolf Watch',
+          price: '$149.99',
           image: require('../../assets/images/watch-6.jpg'),
           category:'electronics',
-          quantity: '40',
-          description: '',
+          quantity: '50',
+          description: 'sleek watch for billionaires',
           discount:''
         },
         {
           id: 7,
-            name: 'Product 7',
-            price: '$150.99',
+            name: 'Womens Heels',
+            price: '$49.99',
             image: require('../../assets/images/w-shoes_1.jpg'),
-            category:'electronics',
+            category:'fashion',
             quantity: '60',
-            description: '',
+            description: '2-inch heels for women',
             discount:''
           },
           {
             id: 40,
-              name: 'iphone 15',
-              price: '$150.99',
+              name: 'iPhone 15',
+              price: '$999.99',
               image: require('../../assets/images/iphone1.jpg'),
               category:'electronics',
               quantity: '600',
-              description: '',
+              description: 'coolest phone you can get',
               discount:''
             },
           {
@@ -236,16 +236,6 @@ export const products = [
       discount:''       
     },
     {
-      id: 21,
-      name: 'Product 21',
-      price: '$44.99',
-      image: require('../../assets/images/watch-12.jpg'),
-      category:'fashion',
-      quantity: '15',
-      description: '',
-      discount:'' 
-    },
-    {
       id: 40,
 
         name: 'Sweat Shirt',
@@ -274,8 +264,8 @@ export const products = [
         description: '',
         discount: ''
     }, {
-        id: 75,
-        name: 'Product 75',
+        id: 76,
+        name: 'Canon Camera',
         price: '$1500.99',
         image: require('../../assets/images/canon_camera75.png'),
         category: 'electronics',
@@ -321,6 +311,16 @@ export const products = [
   category:'fashion',
   quantity: '20',
   description: '',
+  discount:''
+},
+{
+  id: 234,
+  name: 'Coconut Garri',
+  price: 'N3,000',
+  image: require('../../assets/images/cassgarr.jpg'),
+  category:'groceries',
+  quantity: '15',
+  description: 'good for the heat',
   discount:''
 }
 
